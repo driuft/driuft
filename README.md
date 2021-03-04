@@ -8,7 +8,7 @@ Here is a basic description of me
 
 ```python
 import socials
-import stuff
+import apps
 
 class AldoSocarras:
   def __init__(self) -> None:
@@ -35,24 +35,19 @@ class AldoSocarras:
     ]
     self.has_to_juggle = ["Studies", "Parenting", "Projects", "Work"]
 
-    self.loves_to_build = [stuff.Impactful, stuff.Innovative]
+    self.loves_to_build = [apps.Impactful, apps.Innovative]
 
     # -- Tech stack section --
-    self.working_on = stuff.code.ANDROID_DEVELOPMENT
+    self.working_on = apps.code.ANDROID_DEVELOPMENT
 
     self.tech_stack = {
-      "code": ["Python", "C++", "Java", "Javascript", "SQL"],
-      "code-branches": ["Machine Learning", "Automation", "CLI and GUI", "Web developement", "Networking"],
-      "frontend": {
-        "css": ["Bootstrap", "Tailwind"],
-        "js": ["React", "NextJS", "Gatsby"]
-      },
-      "backend": {
-        "python": ["Flask", "Django", "Sanic", "Tornado"]
-      },
-      "cloud": ["GCP", "AWS", "Azure"],
-      "databases": ["PostgreSQL", "MySQL", "Redis", "SQLite"],
-      "DevOps": ["Docker", "CI/CD", "Linux administration", "Version control", "Virtualization"]
+      "languages": ["Python", "C++", "C#", "AutoIt", "ActionScript", "Dart", "Java", "JavaScript"],
+      "frontend": ["HTML", "CSS", "JS"],
+      "databases": ["SQL", "MySQL"],
+      "devops": {
+        "endpoint management": ["HCL BigFix", "Splunk", "Grafana", "Datadog", "Carbon Black", "ESET"],
+        "platforms-tools": ["Android Studio", "Flutter", "Git", "Linux", "Windows", "MacOS", "VMWare"]
+      }
     }
 
     # -- Social media section --
@@ -89,14 +84,9 @@ aldo.hello()
 [<img align="left" alt="Aldo Socarras | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Aldo Socarras | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-<br />
+<br/>
 
-<div align="center">
-  
-  Hope to see you again soon! ✌️
-  __Aldo Socarras__
-  
-</div>
+<div align="center"> Hope to see you again soon! ✌️ __Aldo Socarras__</div>
 
 [twitter]: https://twitter.com/driuft
 [linkedin]: https://www.linkedin.com/in/airsocarras/
