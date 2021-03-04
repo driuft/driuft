@@ -12,14 +12,14 @@ import apps
 
 class AldoSocarras:
   def __init__(self) -> None:
-    # -- Personal section --
+    # --- Personal Info --- #
     self.name = "Aldo Socarras"
     self.age = 25
     self.birthday = "03-18-1995"
 
     self.tagline = "Just a dude that loves to vibe"
 
-    # -- About section --
+    # --- About Me --- #
     self.loves_to = [
       "💻 Code",
       "🎷 Play sax",
@@ -37,7 +37,7 @@ class AldoSocarras:
 
     self.loves_to_build = [apps.Impactful, apps.Innovative]
 
-    # -- Tech stack section --
+    # --- Tech Stack --- #
     self.working_on = apps.code.ANDROID_DEVELOPMENT
 
     self.tech_stack = {
@@ -50,7 +50,7 @@ class AldoSocarras:
       }
     }
 
-    # -- Social media section --
+    # --- Socials --- #
     self.social_media = {
       "email": "air.socarras@gmail.com",
       "github": "https://github.com/janaSunrise",
@@ -58,7 +58,7 @@ class AldoSocarras:
       "linkedin": "https://www.linkedin.com/in/airsocarras/"
     }
     
-    # -- Wrapping up --
+    # --- Wrap Up --- #
     self.fun_fact = "I started my journey as an Accounting major and switched to Computer Science as a personal challenge."
   
   def __repr__(self) -> None:
@@ -80,7 +80,7 @@ aldo.hello()
 [<img align="left" alt="Aldo Socarras | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Aldo Socarras | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-<br/>
+<br>
 
 <div align="center"> Hope to see you again soon! ✌️ __Aldo Socarras__</div>
 
