@@ -1,8 +1,5 @@
-<h1 align="center">Hey there <img src="https://media4.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="30px"> ! I'm Aldo Socarras <img src="https://thumbs.gfycat.com/CreamyShinyGuppy-max-1mb.gif" width="50"></h1>
+<h1 align="center">Hey there! I'm Aldo Socarras <img src="https://media4.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="40px"></h1>
 <h2 align="center">A Miami-based software developer from Cuba </h2>
-
-<img src= "https://octodex.github.com/images/waldocat.png" width="150px" Title="You found Waldo!" align="center">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janasunrise" alt="janasunrise" /> </p>
 
 ### Let's know me well!
 Here is a basic description of me
