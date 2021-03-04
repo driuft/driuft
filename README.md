@@ -80,9 +80,9 @@ aldo.hello()
 [<img align="left" alt="Aldo Socarras | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Aldo Socarras | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
-<br>
+<br><br>
 
-<div align="center"> Hope to see you again soon! ✌️ __Aldo Socarras__</div>
+<div align="center"> Hope to see you again soon! ✌️ <i>Aldo Socarras</i></div>
 
 [twitter]: https://twitter.com/driuft
 [linkedin]: https://www.linkedin.com/in/airsocarras/
