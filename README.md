@@ -11,7 +11,7 @@ It's a pleasure to meet you! 🤝
 
 <br>
 
-**And, here's some code that I'd love to share with you!**
+### And, here's some code that I'd love to share with you!
 
 ```python
 import socials
