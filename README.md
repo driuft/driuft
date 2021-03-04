@@ -82,7 +82,11 @@ aldo.hello()
 
 <br><br>
 
-<div align="center"> Hope to see you again soon! ✌️ <i>Aldo Socarras</i></div>
+<div align="center">Hope to see you again soon! ✌️
+  <i>Aldo Socarras</i>
+</div>
+
+<br>
 
 [twitter]: https://twitter.com/driuft
 [linkedin]: https://www.linkedin.com/in/airsocarras/
