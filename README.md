@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Aldo Socarras <img src="https://media4.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="50px"></h1>
-<h2 align="center">🌴 Miami-based Agile Software/Systems Engineer with large-scale deployment experience 🌴</h2>
+<h2 align="center">🌴 Miami-based Agile Software/Systems Engineer w/ large-scale deployment experience 🌴</h2>
 <br>
 
 ### Get to know me!
