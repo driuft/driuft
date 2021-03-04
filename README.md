@@ -10,7 +10,7 @@ Here is a basic description of me
 import socials
 import stuff
 
-class SunritJana:
+class AldoSocarras:
   def __init__(self) -> None:
     # -- Personal section --
     self.name = "Aldo Socarras"
