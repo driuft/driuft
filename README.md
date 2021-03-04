@@ -59,7 +59,7 @@ class AldoSocarras:
     }
     
     # -- Wrapping up --
-    self.fun_fact = "I started my journey as a major in Accounting and switched to Computer Science as a personal challenge."
+    self.fun_fact = "I started my journey as an Accounting major and switched to Computer Science as a personal challenge."
   
   def __repr__(self) -> None:
     return f'<Object AldoSocarras at 0x0A0001B2FCA77F70 working_on={self.working_on} ask_about={self.ask_me_about}>'
