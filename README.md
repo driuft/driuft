@@ -36,8 +36,6 @@ class SunritJana:
     self.has_to_juggle = ["Studies", "Parenting", "Projects", "Work"]
 
     self.loves_to_build = [stuff.Impactful, stuff.Innovative]
-    
-    self.most_active_at = [socials.Discord]
 
     # -- Tech stack section --
     self.working_on = stuff.code.ANDROID_DEVELOPMENT
@@ -62,14 +60,14 @@ class SunritJana:
       "email": "air.socarras@gmail.com",
       "github": "https://github.com/janaSunrise",
       "twitter": "https://twitter.com/driuft",
-      "blog": "https://www.linkedin.com/in/airsocarras/"
+      "linkedin": "https://www.linkedin.com/in/airsocarras/"
     }
     
     # -- Wrapping up --
     self.fun_fact = "I started my journey as a major in Accounting and switched to Computer Science as a personal challenge."
   
   def __repr__(self) -> None:
-    return f'<Object AldoSocarras at 0x0A0001B2FCA77F70 working_on={self.working_on} active_at={self.most_active_at}> ask_about={self.ask_me_about}'
+    return f'<Object AldoSocarras at 0x0A0001B2FCA77F70 working_on={self.working_on} ask_about={self.ask_me_about}>'
     
   def __str__(self) -> None:
     return self.name
