@@ -52,8 +52,8 @@ class AldoSocarras:
       "frontend": ["HTML", "CSS", "JS"],
       "databases": ["SQL", "MySQL"],
       "devops": {
-        "endpoint management": ["HCL BigFix", "Splunk", "Grafana", "Datadog", "Carbon Black", "ESET"],
-        "platforms-tools": ["Android Studio", "Flutter", "Git", "Linux", "Windows", "MacOS", "VMWare"]
+        "endpoint-management": ["HCL BigFix", "Splunk", "Grafana", "Datadog", "Carbon Black", "ESET"],
+        "platform-tools": ["Android Studio", "Flutter", "Git", "Linux", "Windows", "MacOS", "VMWare"]
       }
     }
 
