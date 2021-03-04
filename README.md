@@ -3,7 +3,9 @@
 <br>
 
 ### Let's know me well!
-Here is a basic description of me
+I was born in Havana, Cuba, and came to the US when I was nine years old. In Cuba, access to technology was scarce, but I was lucky enough to own a Nintendo 64. 
+
+<br>
 
 **And, here's some code that I'd love to share with you 😁**
 
