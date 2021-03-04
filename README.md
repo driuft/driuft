@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Aldo Socarras <img src="https://media4.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="40px"></h1>
-<h2 align="center">A Miami-based software developer from Cuba </h2>
+<h2 align="center">🌴 Miami-based software/systems engineer with an interest in DevOps</h2>
 
 ### Let's know me well!
 Here is a basic description of me
