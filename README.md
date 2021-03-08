@@ -14,7 +14,6 @@ It's a pleasure to meet you! 🤝
 ### And, here's some code that I'd love to share with you!
 
 ```python
-import socials
 import apps
 
 class AldoSocarras:
@@ -60,7 +59,7 @@ class AldoSocarras:
     # --- Socials --- #
     self.social_media = {
       "email": "air.socarras@gmail.com",
-      "github": "https://github.com/janaSunrise",
+      "github": "https://github.com/driuft",
       "twitter": "https://twitter.com/driuft",
       "linkedin": "https://www.linkedin.com/in/airsocarras/"
     }
