@@ -62,7 +62,7 @@ class AldoSocarras:
       "email": "air.socarras@gmail.com",
       "github": "https://github.com/driuft",
       "twitter": "https://twitter.com/driuft",
-      "linkedin": "https://www.linkedin.com/in/airsocarras/"
+      "linkedin": "https://www.linkedin.com/in/airsocarras"
     }
     
     # --- Wrap Up --- #
