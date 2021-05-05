@@ -21,7 +21,7 @@ class AldoSocarras:
   def __init__(self) -> None:
     # --- Personal Info --- #
     self.name = "Aldo Socarras"
-    self.age = 25
+    self.age = 26
     self.birthday = "03-18-1995"
 
     self.tagline = "Retail Technology Engineer @ Under Armour"
