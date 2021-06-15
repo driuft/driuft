@@ -24,7 +24,7 @@ class AldoSocarras:
     self.age = 26
     self.birthday = "03-18-1995"
 
-    self.tagline = "Retail Technology Engineer @ Under Armour"
+    self.tagline = "Product Manager @ Under Armour"
 
     # --- About Me --- #
     self.loves_to = [
