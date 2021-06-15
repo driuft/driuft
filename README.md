@@ -3,7 +3,7 @@
 <br>
 
 ### Get to know me!
-I was born in Havana, Cuba, and came to the United States when I was nine years old. My interest in technology sparked at a very young age, as I spent time with my father fixing old radios and Nintendo 64 consoles in Cuba. Ever since, I learned the value of seeking knowledge and pretty much sponged up as much as I could, from music to philosophy to history, even cybersecurity, etc.
+I was born in Havana, Cuba, and came to the United States when I was nine years old. My interest in technology sparked at a very young age, as I spent time with my father fixing old radios and NES consoles in Cuba. Ever since, I learned the value of seeking knowledge and pretty much sponged up as much as I could, from music to philosophy to history, even cybersecurity, etc.
 
 I carry that same stride with everything I do, soaking up as much information as I can and doing my best to share the knowledge with others. I am a HUGE fan of open-source projects and try to contribute where I can.
 
