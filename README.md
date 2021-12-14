@@ -24,7 +24,7 @@ class AldoSocarras:
     self.age = 26
     self.birthday = "03-18-1995"
 
-    self.tagline = "Product Manager @ Under Armour"
+    self.tagline = "Software Engineer @ Marco Polo"
 
     # --- About Me --- #
     self.loves_to = [
@@ -48,9 +48,9 @@ class AldoSocarras:
     self.working_on = apps.code.ANDROID_DEVELOPMENT
 
     self.tech_stack = {
-      "languages": ["Python", "C++", "C#", "AutoIt", "ActionScript", "Dart", "Java", "JavaScript"],
+      "languages": ["Kotlin", "Python", "Java", "C++", "C#", "AutoIt", "ActionScript", "JavaScript"],
       "frontend": ["HTML", "CSS", "JS"],
-      "databases": ["SQL", "MySQL"],
+      "databases": ["Firebase", "Room", "SQL", "MySQL"],
       "devops": {
         "endpoint-management": ["HCL BigFix", "Splunk", "Grafana", "Datadog", "Carbon Black", "ESET"],
         "platform-tools": ["Android Studio", "Flutter", "Git", "Linux", "Windows", "MacOS", "VMWare"]
