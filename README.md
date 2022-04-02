@@ -87,8 +87,10 @@ aldo.hello()
 
 ### 🔗 Connect with me:
 
-[<img align="left" alt="Aldo Socarras | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Aldo Socarras | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="Aldo Socarras | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="Aldo Socarras | Personal Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />][website]
+[<img align="left" alt="Aldo Socarras | YouTube Channel" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />][youtube]
 
 <br><br>
 
@@ -100,3 +102,5 @@ aldo.hello()
 
 [twitter]: https://twitter.com/driuft
 [linkedin]: https://www.linkedin.com/in/airsocarras/
+[website]: https://driuft.com
+[youtube]: https://www.youtube.com/channel/UCAyz6fivEhmhvNvL8TU4sFQ
