@@ -3,11 +3,12 @@
 <br>
 
 ### Get to know me!
-I was born in Havana, Cuba, and came to the United States when I was nine years old. My interest in technology sparked at a very young age, as I spent time with my father fixing old radios and NES consoles in Cuba. Ever since, I learned the value of seeking knowledge and pretty much sponged up as much as I could, from music to philosophy to history, even cybersecurity, etc.
+From immigrant to Software Engineer. My life hasn't exactly painted a straight trajectory, but all my past experiences and failures helped build the person I am today.
 
-I carry that same stride with everything I do, soaking up as much information as I can and doing my best to share the knowledge with others. I am a HUGE fan of open-source projects and try to contribute where I can.
 
-It's a pleasure to meet you! 🤝
+Hi! 👋
+
+I'm Aldo, and I am passionate about positively impacting the world through technology. I create content on YouTube, write the occasional blog, dust the Twitter account when I feel so moved, and spend a lot of my time teaching and mentoring. Nice to meet you!
 
 <br>
 
@@ -37,10 +38,10 @@ class AldoSocarras:
     ]
     self.likes_doing = [
       "🏫 Teaching",
-      "🤝 Helping people",
+      "👾 Diving into niche Android topics",
       "🧑‍💻 Planning and designing projects"
     ]
-    self.has_to_juggle = ["Studies", "Parenting", "Projects", "Work"]
+    self.has_to_juggle = ["Mentoring", "Parenting", "Projects", "Work"]
 
     self.loves_to_build = [apps.Impactful, apps.Innovative]
 
@@ -51,7 +52,8 @@ class AldoSocarras:
       "languages": ["Kotlin", "Python", "Java", "C++", "C#", "AutoIt", "ActionScript", "JavaScript"],
       "frontend": ["HTML", "CSS", "JS"],
       "databases": ["Firebase", "Room", "SQL", "MySQL"],
-      "devops": {
+      "libraries": ["Retrofit / OkHttp", "Coroutines", "Databinding / Viewbinding", "Lottie", "Glide", "LeakCanary"]
+      "infrastructure": {
         "endpoint-management": ["HCL BigFix", "Splunk", "Grafana", "Datadog", "Carbon Black", "ESET"],
         "platform-tools": ["Android Studio", "Flutter", "Git", "Linux", "Windows", "MacOS", "VMWare"]
       }
@@ -60,9 +62,10 @@ class AldoSocarras:
     # --- Socials --- #
     self.social_media = {
       "email": "air.socarras@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/airsocarras",
       "github": "https://github.com/driuft",
-      "twitter": "https://twitter.com/driuft",
-      "linkedin": "https://www.linkedin.com/in/airsocarras"
+      "website": "https://driuft.com",
+      "twitter": "https://twitter.com/driuft"
     }
     
     # --- Wrap Up --- #
