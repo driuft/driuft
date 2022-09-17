@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Aldo Socarras <img src="https://media1.giphy.com/media/mpf3TYzXclIMU/source.gif" width="50px"></h1>
-<h2 align="center">🌴 Miami-based mobile software engineer w/ large-scale deployment experience</h2>
+<h2 align="center">🌴 Miami-based Android Engineer</h2>
 <br>
 
 ### Get to know me!
@@ -12,77 +12,73 @@ I'm Aldo, and I am passionate about positively impacting the world through techn
 
 <br>
 
-### And, here's some code that I'd love to share with you!
+### Here's some code that I'd love to share with you!
 
-```python
+```kotlin
 
-import apps
+import co.socarras.apps
 
-class AldoSocarras:
-  def __init__(self) -> None:
-    # --- Personal Info --- #
-    self.name = "Aldo Socarras"
-    self.age = 27
-    self.birthday = "03-18-1995"
+class AldoSocarras {
 
-    self.tagline = "Software Engineer @ Marco Polo"
-
-    # --- About Me --- #
-    self.loves_to = [
-      "💻 Code",
-      "🎷 Play sax",
-      "🎮 Play video games",
-      "🎥 Watch films",
-      "🔭 Explore new things",
-      "📚 Share knowledge with others"
-    ]
-    self.likes_doing = [
-      "🏫 Teaching",
-      "👾 Diving into niche Android topics",
-      "🧑‍💻 Planning and designing projects"
-    ]
-    self.has_to_juggle = ["Mentoring", "Parenting", "Projects", "Work"]
-
-    self.loves_to_build = [apps.Impactful, apps.Innovative]
-
-    # --- Tech Stack --- #
-    self.working_on = apps.code.ANDROID_DEVELOPMENT
-
-    self.tech_stack = {
-      "languages": ["Kotlin", "Python", "Java", "C++", "C#", "AutoIt", "ActionScript", "JavaScript"],
-      "frontend": ["HTML", "CSS", "JS"],
-      "databases": ["Firebase", "Room", "SQL", "MySQL"],
-      "libraries": ["Retrofit / OkHttp", "Coroutines", "Databinding / Viewbinding", "Lottie", "Glide", "LeakCanary"]
-      "infrastructure": {
-        "endpoint-management": ["HCL BigFix", "Splunk", "Grafana", "Datadog", "Carbon Black", "ESET"],
-        "platform-tools": ["Android Studio", "Flutter", "Git", "Linux", "Windows", "MacOS", "VMWare"]
-      }
+    companion object {
+        const val name = "Aldo Socarras"
+        const val birthday = "03-18-1995"
+        var age = 27
     }
 
-    # --- Socials --- #
-    self.social_media = {
-      "email": "air.socarras@gmail.com",
-      "linkedin": "https://www.linkedin.com/in/airsocarras",
-      "github": "https://github.com/driuft",
-      "website": "https://driuft.com",
-      "twitter": "https://twitter.com/driuft"
-    }
-    
-    # --- Wrap Up --- #
-    self.fun_fact = "I started my journey as an Accounting major and switched to Computer Science as a personal challenge."
-  
-  def __repr__(self) -> None:
-    return f'<Object AldoSocarras at 0x0A0001B2FCA77F70 working_on={self.working_on} ask_about={self.ask_me_about}>'
-    
-  def __str__(self) -> None:
-    return self.name
-    
-  def hello() -> None:
-    print("Hey there 👋! Nice to meet you!")
-    
+    val lovesTo = mutableSetOf(
+        "💻 Code",
+        "🎷 Play sax",
+        "🎮 Play video games",
+        "🎥 Watch films",
+        "🔭 Explore new things",
+        "📚 Share knowledge with others"
+    )
 
-aldo = AldoSocarras()
-aldo.hello()
+    val likesTo = mutableSetOf(
+        "🏫 Teaching",
+        "👾 Diving into niche Android topics",
+        "🧑‍💻 Planning and designing projects"
+    )
+
+    val hasToJuggle = mutableSetOf(
+        "Mentoring",
+        "Parenting",
+        "Projects",
+        "Work"
+    )
+
+    val lovesToBuild = mutableSetOf(
+        apps.Impactful,
+        apps.Innovative
+    )
+
+    object TechStack {
+        val languages = mutableSetOf("Kotlin", "Python", "Java", "C++")
+        val databases = mutableSetOf("Firebase", "Room", "Parse", "SQL", "MySQL")
+        val libraries = mutableSetOf("Retrofit", "Coroutines", "Binding", "Lottie", "Glide", "LeakCanary")
+        val infrastructure = mutableSetOf(
+            mutableListOf("HCL BigFix", "Splunk", "Grafana", "Datadog", "Carbon Black", "ESET"),
+            mutableListOf("Android Studio", "Flutter", "Git", "Linux", "Windows", "MacOS", "VMWare")
+        )
+    }
+
+    object SocialMedia {
+        const val email = "air.socarras@gmail.com"
+        const val linkedin = "https://www.linkedin.com/in/airsocarras"
+        const val github = "https://github.com/driuft"
+        const val website = "https://driuft.com"
+        const val twitter = "https://twitter.com/driuft"
+    }
+
+    private fun hello() {
+        print("Hey there 👋! Nice to meet you!")
+    }
+
+    init {
+        hello()
+    }
+}
 ```
 
 ### 🔗 Connect with me:
