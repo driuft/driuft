@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Aldo Socarras <img src="https://media1.giphy.com/media/mpf3TYzXclIMU/source.gif" width="50px"></h1>
-<h2 align="center">🌴 Miami-based Android Engineer</h2>
+<h2 align="center">🌴 Miami-based Android Engineer 🌴</h2>
 <br>
 
 ### Get to know me!
