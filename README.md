@@ -3,12 +3,12 @@
 <br>
 
 ### Get to know me!
-From immigrant to Software Engineer. My life hasn't exactly painted a straight trajectory, but all my past experiences and failures helped build the person I am today.
+From immigrant to software engineer, my journey has been marked by challenges and setbacks that have ultimately shaped me into the person I am today.
 
 
 Hi! 👋
 
-I'm Aldo, and I am passionate about positively impacting the world through technology. I create content on YouTube, write the occasional blog, dust the Twitter account when I feel so moved, and spend a lot of my time teaching and mentoring. Nice to meet you!
+I'm Aldo, and I am a Cuban-born software engineer and content creator based in Miami, Florida 🌴. With expertise in Android development and a commitment to increasing diversity and equity in the tech industry, I have taught mobile development at companies like Meta and Google. Passionate about making knowledge accessible, I hope to inspire and empower others to pursue careers in technology and make a positive impact in the world.
 
 <br>
 
