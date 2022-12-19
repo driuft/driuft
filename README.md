@@ -3,7 +3,7 @@
 <br>
 
 ### Get to know me!
-From immigrant to software engineer, my journey has undergone marked by challenges and setbacks that have ultimately shaped me into the person I am today.
+From immigrant to software engineer, my journey has undergone challenges and setbacks that have ultimately shaped me into the person I am today.
 
 
 Hi! 👋
