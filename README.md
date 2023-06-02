@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Aldo Socarras <img src="https://media1.giphy.com/media/mpf3TYzXclIMU/source.gif" width="50px"></h1>
-<h2 align="center">🌴 Miami-based Android Engineer 🌴</h2>
+<h2 align="center">🌴 Miami-based Mobile Software Engineer 🌴</h2>
 <br>
 
 ### Get to know me!
@@ -8,76 +8,76 @@ From immigrant to software engineer, my journey has undergone challenges and set
 
 Hi! 👋
 
-I'm Aldo, and I am a Cuban-born software engineer and content creator based in Miami, Florida 🌴. With expertise in Android development and a commitment to increasing diversity and equity in the tech industry, I have taught mobile development at companies like Meta and Google. Passionate about making knowledge accessible, I hope to inspire and empower others to pursue careers in technology and make a positive impact in the world.
+I'm Aldo, and I am a Cuban-born software engineer and content creator based in Miami, Florida. With expertise in Android development and a commitment to increasing diversity and equity in the tech industry, I have taught mobile development at companies like Meta and Google. Passionate about making knowledge accessible, I hope to inspire and empower others to pursue careers in technology and make a positive impact in the world.
 
 <br>
 
 ### Here's some code that I'd love to share with you!
 
 ```kotlin
-
-import co.socarras.apps
-
 class AldoSocarras {
 
     companion object {
         const val name = "Aldo Socarras"
-        const val birthday = "03-18-1995"
-        var age = 27
+        const val birthday = "March 18, 1995"
+        val age = 27
     }
 
-    val lovesTo = mutableSetOf(
-        "💻 Code",
-        "🎷 Play sax",
-        "🎮 Play video games",
-        "🎥 Watch films",
-        "🔭 Explore new things",
-        "📚 Share knowledge with others"
+    val techStack = TechStack()
+    val socialMedia = SocialMedia()
+
+    val lovesTo = setOf(
+        "Code",
+        "Play the saxophone",
+        "Play video games",
+        "Watch movies",
+        "Explore new things",
+        "Share knowledge with others"
     )
 
-    val likesTo = mutableSetOf(
-        "🏫 Teaching",
-        "👾 Diving into niche Android topics",
-        "🧑‍💻 Planning and designing projects"
+    val likesTo = setOf(
+        "Teach",
+        "Dive into niche Android topics",
+        "Plan and design projects"
     )
 
-    val hasToJuggle = mutableSetOf(
+    val hasToJuggle = setOf(
         "Mentoring",
         "Parenting",
         "Projects",
         "Work"
     )
 
-    val lovesToBuild = mutableSetOf(
+    val lovesToBuild = setOf(
         apps.Impactful,
         apps.Innovative
     )
 
-    object TechStack {
-        val languages = mutableSetOf("Kotlin", "Python", "Java", "C++")
-        val databases = mutableSetOf("Firebase", "Room", "Parse", "SQL", "MySQL")
-        val libraries = mutableSetOf("Retrofit", "Coroutines", "Binding", "Lottie", "Glide", "LeakCanary")
-        val infrastructure = mutableSetOf(
-            mutableListOf("HCL BigFix", "Splunk", "Grafana", "Datadog", "Carbon Black", "ESET"),
-            mutableListOf("Android Studio", "Flutter", "Git", "Linux", "Windows", "MacOS", "VMWare")
-        )
-    }
-
-    object SocialMedia {
-        const val email = "air.socarras@gmail.com"
-        const val linkedin = "https://www.linkedin.com/in/airsocarras"
-        const val github = "https://github.com/driuft"
-        const val website = "https://driuft.com"
-        const val twitter = "https://twitter.com/driuft"
-    }
-
     private fun hello() {
-        print("Hey there 👋! Nice to meet you!")
+        println("Hey there! Nice to meet you!")
     }
 
     init {
         hello()
     }
+}
+
+class TechStack {
+    val languages = setOf("Kotlin", "Python", "Java", "C++")
+    val databases = setOf("Firebase", "Room", "Parse", "SQL", "MySQL")
+    val libraries = setOf("Retrofit", "Coroutines", "Binding", "Lottie", "Glide", "LeakCanary")
+    val infrastructure = setOf(
+        listOf("HCL BigFix", "Splunk", "Grafana", "Datadog", "Carbon Black", "ESET"),
+        listOf("Android Studio", "Flutter", "Git", "Linux", "Windows", "MacOS", "VMWare")
+    )
+}
+
+class SocialMedia {
+    const val email = "air.socarras@gmail.com"
+    const val linkedin = "https://www.linkedin.com/in/airsocarras"
+    const val github = "https://github.com/driuft"
+    const val website = "https://driuft.com"
+    const val twitter = "https://twitter.com/driuft"
 }
 ```
 
