@@ -6,7 +6,13 @@
 <br>
 
 <p>
-👋 Hi there! I'm Aldo, an Android Engineer passionate about increasing diversity and equity in technology. I was born in Havana, Cuba and I am currently based in Miami, Florida. My journey from immigrant to Software Engineer has shaped me into the person I am today. Coming from a non-traditional background, I am committed to making technical knowledge accessible in hopes to inspire and empower others to pursue careers in technology, ultimately making a positive impact in the world. 🚀
+👋 Hi there! I’m an Android Software Engineer at Square, where I contribute to creating awesome core product checkout experiences to empower over 2 million sellers worldwide to run their businesses on their terms. 🌎
+
+Talk to me about:<br>
+📱 Accessibility<br>
+📉 Performance<br>
+🌎 Community building<br>
+🌴 Championing diversity
 </p>
 
 <br>
