@@ -6,7 +6,11 @@
 <br>
 
 <p>
-👋 Hi there! I’m an Android Software Engineer at Square, where I contribute to creating awesome core product checkout experiences to empower over 2 million sellers worldwide to run their businesses on their terms. 🌎
+👋 Hi there! I’m an Android Software Engineer at Square, where I contribute to creating awesome core product checkout experiences to empower over 2 million sellers worldwide to run their businesses on their terms!
+
+As a Cuban immigrant, my journey has been marked by challenges and triumphs. I’ve transformed from an eager newcomer navigating a new language and culture to a passionate advocate for technology and inclusivity.
+
+I’ve had the privilege of teaching mobile development at companies like Meta (formerly Facebook) and Google, with a mission to bridge gaps and empower underrepresented minorities in tech. Through teaching and mentoring, I hope to inspire diverse individuals to pursue fulfilling careers in technology. 🌟
 
 Talk to me about:<br>
 📱 Accessibility<br>
