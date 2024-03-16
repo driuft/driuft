@@ -35,6 +35,6 @@ Talk to me about:<br>
 
 [twitter]: https://twitter.com/driuft
 [linkedin]: https://www.linkedin.com/in/airsocarras/
-[website]: https://driuft.com
+[website]: https://bento.me/driuft
 [youtube]: https://www.youtube.com/channel/UCAyz6fivEhmhvNvL8TU4sFQ
 [sessionize]: https://sessionize.com/driuft/
