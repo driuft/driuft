@@ -33,7 +33,7 @@ Talk to me about:<br>
 
 <br>
 
-[twitter]: https://twitter.com/driuft
+[twitter]: https://x.com/driuft
 [linkedin]: https://www.linkedin.com/in/airsocarras/
 [website]: https://bento.me/driuft
 [youtube]: https://www.youtube.com/channel/UCAyz6fivEhmhvNvL8TU4sFQ
